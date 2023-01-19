@@ -7,7 +7,6 @@ import {useState} from 'react'
 import { useRouter } from "next/router"
 import { useDocumentDataOnce } from "react-firebase-hooks/firestore"
 import { useForm } from "react-hook-form"
-import { useState } from "react"
 import ReactMarkdown from "react-markdown"
 import Link from "next/link"
 import  toast  from "react-hot-toast"
